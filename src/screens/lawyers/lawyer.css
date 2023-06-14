@@ -1,0 +1,92 @@
+.background-rectangle{
+    /* width: 100%; */
+    /* height: 90vh; */
+    /* border: 2px solid black; */
+    border-radius: 40px;
+}
+.bgimg{
+    height:100% ;
+    width: 100%;
+    overflow: hidden;
+}
+.details{
+    z-index: 1;
+    position: relative;
+    margin-top: -380px;
+    color: white;
+}
+.heading{
+    font-size: 3.2em;
+}
+.para{
+    font-size: 1.2em;
+}
+.btn-contact{
+    height: 3rem;
+    width: 10rem;
+    color: black;
+    font-size: large;
+    font-weight: 400;
+    border: none;
+    border-radius: 10px;
+    transition: 0.3s ease-in-out;
+}
+.btn-contact:hover{
+    background-color: rgb(194, 190, 190);
+}
+.girl-img{
+    /* height: 98vh; */
+    width: 50%;
+    /* border: 2px solid black; */
+    z-index: 1;
+    position: relative;
+    margin-top: -615px;
+}
+.under-bgimg{
+    height:100% ;
+    width: 100%;
+    overflow: hidden;
+}
+.opt-time{
+    width: 5rem;
+    height: 2rem;
+    border: 2px solid rgb(192, 192, 192);
+}
+.date{
+    border: 2px solid rgb(192, 192, 192);
+}
+.opt-mem{
+    width: 6rem;
+    height: 2rem;
+    border: 2px solid rgb(192, 192, 192);
+}
+.opt-input{
+    width: 20rem;
+    border: 2px solid rgb(192, 192, 192);
+}
+.input-date{
+    border: 2px solid rgb(192, 192, 192);
+}
+.btn-clean{
+    width: 8rem;
+    height: 2rem;
+    border: none;
+    border: 2px solid rgb(192, 192, 192);
+    border-radius: 6px;
+    color: black;
+}
+.btn-search{
+    width: 8rem;
+    height: 2rem;
+    border: none;
+    /* border: 2px solid rgb(192, 192, 192); */
+    border-radius: 6px;
+    color: white;
+    background-color: black;
+}
+.lawayer-cards{
+    /* height: 28rem; */
+    /* width: 20rem; */
+    /* border: 2px solid black; */
+    border-radius: 19px;
+}
